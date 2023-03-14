@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/a.jpg</file>
+        <file>images/b.jpg</file>
+        <file>images/bcg.jpg</file>
+        <file>images/bubble.png</file>
+        <file>images/c.jpg</file>
+        <file>images/d.jpg</file>
+        <file>images/e.jpg</file>
+        <file>images/f.jpg</file>
+        <file>images/file.png</file>
+        <file>images/g.jpg</file>
+        <file>images/h.jpg</file>
+        <file>images/i.jpg</file>
+        <file>images/j.jpg</file>
+        <file>images/k.jpeg</file>
+        <file>images/l.jpg</file>
+        <file>images/m.jpg</file>
+        <file>images/n.jpg</file>
+        <file>images/p.jpg</file>
+        <file>images/x.mp3</file>
+        <file>images/y.mp3</file>
+        <file>images/y.wav</file>
+        <file>images/snow.jpg</file>
+        <file>images/mount.jpg</file>
+    </qresource>
+</RCC>
